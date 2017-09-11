@@ -16,7 +16,7 @@ while a==0:
     print "\t"*3,
     print "1.Want to code or decode"
     print "\t"*3,
-    print "2.Want to play zellers algorithm"
+    print "2.Want to try Zeller's congruence"
     print "\t"*3,
     choice=input("Enter the choice:")
     print "\t"*3,
